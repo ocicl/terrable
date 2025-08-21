@@ -2,8 +2,8 @@
 
 A file parser library for Terragen TER terrain files.
 
-|---------+-----------------------------------------------|
+|---------+-------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/terrable.git |
-| commit  | 839d0b1                                       |
-| systems | terrable                                      |
-|---------+-----------------------------------------------|
+| commit  | b86979d                                         |
+| systems | terrable                                        |
+|---------+-------------------------------------------------|
